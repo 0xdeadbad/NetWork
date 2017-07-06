@@ -41,7 +41,7 @@ Trabalhos de redes
   </li>
   </br>
   <li type='disc'>
-    <b>Ping Pong</b>
+    <b>Compartilhador de Arquivos</b>
     <ol>
       <li type='disc'>
         Compartilhador de Arquivos feito em python. </br>
